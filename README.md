@@ -2,7 +2,7 @@
 
 Read Me
 
-In this exercise we will be creating an app for a dance studio. In which you must figure out how the studio, the members and the instructors connect.
+In this exercise we will be creating an app for a dance studio. The Group Fitness belongs to a member and an instructor. The member has many instructors through Group Fitness and the instructors has many members through group fitness.
 
 1. Models with appropriate associations and at least two validations of name and email.
 
