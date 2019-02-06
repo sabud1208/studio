@@ -4,7 +4,7 @@ Read Me
 
 In this exercise we will be creating an app for a dance studio. In which you must figure out how the studio, the members and the instructors connect.
 
-1. Models with appropriate associations and at least two validations.
+1. Models with appropriate associations and at least two validations of name and email.
 
 2. At least one index page, with links to show pages Show pages for at least two of the models.
 
