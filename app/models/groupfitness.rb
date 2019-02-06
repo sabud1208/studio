@@ -1,0 +1,2 @@
+class GroupFitness <ApplicationRecord
+end
